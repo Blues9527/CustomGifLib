@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">easy-mock.com</domain>
+        <domain includeSubdomains="true">www.wanandroid.com</domain>
+        <domain includeSubdomains="true">n.sinaimg.cn</domain>
+    </domain-config>
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>
