@@ -1,0 +1,2 @@
+# CustomGifLib
+根据网易公开课基于GifLib实现NDK加载gif图片
